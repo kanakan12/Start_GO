@@ -1,2 +1,1 @@
-# Start_GO
-Start_GO
+1. THEORY
