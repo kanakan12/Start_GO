@@ -4,3 +4,4 @@
 4. JobScrapper
 - Normal
 - Goroutine
+5. JobScrapper Server
